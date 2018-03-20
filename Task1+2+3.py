@@ -36,3 +36,4 @@ if (vote[0]>vote[1]):
     print("NEW CLASS CAPTAIN: " + candidateName[0])
 else:
     print("NO OVERALL WINNER")
+    print(":(")
