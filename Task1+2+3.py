@@ -12,7 +12,7 @@ for i in range(0,candidates):
     candidateName[i] = input("Name of candidate?")
 for i in range(0,maxVotes):
     for i in range(0,candidates):
-        print("Options: " + candidateName[i] + "  " + str(i+1))
+        print("Options: " + candidateName[i] + "    " + str(i+1))
     while True:
         option = int(input("Select one"))
         if (option<=candidates and option>0):
