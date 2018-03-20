@@ -34,6 +34,7 @@ print(list(vote))
 print(list(candidateName))
 if (vote[0]>vote[1]):
     print("NEW CLASS CAPTAIN: " + candidateName[0])
+    print("CONGRATULATIONS!")
 else:
     print("NO OVERALL WINNER")
     print(":(")
