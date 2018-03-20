@@ -38,3 +38,4 @@ if (vote[0]>vote[1]):
 else:
     print("NO OVERALL WINNER")
     print(":(")
+    print("lel")
